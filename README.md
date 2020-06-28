@@ -1,3 +1,2 @@
 # Tasbeeh
-Android App
-Test
+Android App - Testing
